@@ -1,0 +1,16 @@
+{
+  "name": "node-kla-dhtmlx-gantt",
+  "version": "1.0.2",
+  "description": "DHTMLX Gantt Component with Pro Features",
+  "main": "dhtmlxgantt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dhtmlx",
+    "gantt",
+    "chart"
+  ],
+  "author": "Greg Antrim",
+  "license": "ISC"
+}
